@@ -1,0 +1,44 @@
+#loginForm,#signupForm {
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 50%;
+    margin:0 auto;
+    margin-top: 5%;
+    align-content: center;
+  
+  }
+ #signup,#login{
+     
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width:50%;
+    background-color:	#FF0000;
+    border-radius:20px;
+ }
+ /*
+ .loginbox input[type="submit"]{
+	heigth: 40px;
+	background:#fb2525;
+	color:#fff;
+	font-size:18px;
+	border-radius:20px;
+}
+.loginbox input[type="submit"]:hover {
+	curser:pointer;
+	background:#ffc107;
+	color:#000;
+}
+  */
+  #mail,#password {
+    height: 100%;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin-left: 3%;
+    width: 80%;
+    border: 1px solid black;
+    margin-top: 10px;
+    border: 1px solid #2E8DA9;
+    margin-bottom: 5px; 
+  }
+  
